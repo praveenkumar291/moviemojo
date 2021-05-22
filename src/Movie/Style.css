@@ -1,0 +1,12 @@
+.movie-cart {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px 2px darkgrey;
+  border-radius: 2cm;
+}
+image {
+  max-width: 50%;
+  height: 100%;
+}
